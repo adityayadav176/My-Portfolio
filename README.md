@@ -5,7 +5,7 @@ It showcases my skills, projects, and contact information in a clean and respons
 
 ---
 
-## 🚀 Live Demo
+## repo link
 👉 https://github.com/adityayadav176/My-Portfolio
 
 ## 🛠️ Technologies Used
