@@ -22,3 +22,5 @@ document.getElementById("contactForm").addEventListener("submit", function(e){
 
     window.location.href = mailTo;
 });
+
+console.log("hello");
